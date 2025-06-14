@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  color: #ff7f50;
+}
+
+ul {
+  list-style-type: none;
+}
+ul li {
+  margin-bottom: 10px;
+}
